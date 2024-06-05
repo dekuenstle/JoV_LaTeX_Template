@@ -24,7 +24,7 @@ In addition to the two-column article template, there is a one-column template t
 
 ## License
 
-David-Elias Künstle created this template by adapting the [JoV manuscript template by Tobias Elze](http://www.tobias-elze.de/latex/) (one column in 2010) to
+David-Elias Künstle created this template by adapting the [JoV manuscript template by Tobias Elze](http://www.tobias-elze.de/latex/) (one column design of JoV in 2010) to
 resemble the appearance of a two-column JoV article in 2024.
 
 This version is free to use, share, and adapt under the [MIT license](https://opensource.org/license/MIT).
