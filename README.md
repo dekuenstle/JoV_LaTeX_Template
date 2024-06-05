@@ -21,6 +21,7 @@ To deactivate line numbers and spacing, comment out these lines in `jov.cls`:
 
 In addition to the two-column article template, there is a one-column template to create supplementary materials in a consistent layout. 
 
+The supplementary file is included at the end of the main file; compile both with the main file. 
 
 ## License
 
